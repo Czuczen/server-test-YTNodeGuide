@@ -18,8 +18,8 @@ app.get("/", (req, res) =>
 {
     // res.send("Siema ziom")
     res.render("index", {
-        pageTitle: "uuuuuu",
-        pageBody: "joooooo"
+        pageTitle: "dfgdgfdg",
+        pageBody: "9999999999"
     });
 });
 
